@@ -3,7 +3,7 @@ https://youtu.be/1il4uzZJOnc
 
 The source code is closed for outsider users, if you are interested in cooperation, leave me a message.
 
-##1. The Motivation For The Project
+## 1. The Motivation For The Project
 These days many people spend their time inside the virtual world. Even if we are outside our house we usually 
 look at the screen of our smartphone. Instead of making new friends, in reality, we decide to find them on the Internet. 
 There is a big possibility that in a few years, humans will completely lose a skill to interact with others in the 
@@ -27,17 +27,16 @@ time with a person that we just met, we can add him to our friends and send mess
 We believe that doing an activity which we like will always be a pleasure for us. And if we will do it with somebody we 
 will enjoy the activity as well as our partner!
 
-##2. How does it work?
+## 2. How does it work?
+1. Install the application on a smartphone, we created the app installer but it’s not yet on 	Google Play Store             
+2. Register / Login (if you use your app frequently you will be logged automatically)
+3. Fill your profile (description, profile image)
+4. Create or join hangOut
+5. Hangout with people in real life, enjoy time and add them as friends for future 	meetings
+6. Get a new friend and add him to your app.
+7. Keep in touch and meet again in the future! 
 
-    1. Install the application on a smartphone, we created the app installer but it’s not yet on 	Google Play Store                                                                                                                                                                         
-    2. Register / Login (if you use your app frequently you will be logged automatically)
-    3. Fill your profile (description, profile image)
-    4. Create or join hangOut
-    5. Hangout with people in real life, enjoy time and add them as friends for future 	meetings
-    6. Get a new friend and add him to your app.
-    7. Keep in touch and meet again in the future! 
-
-##3. Tools
+## 3. Tools
     • Ubuntu 18, Android – Operating systems used for development
     • JavaScript – a Programming language for both front-end and back-end
     • Atom – Text editor
@@ -46,18 +45,18 @@ will enjoy the activity as well as our partner!
     • Babel.js –  JavaScript compiler
     • Postman –  Testing and debugging the server
     • LibreOffice – Office suite used to create documents and presentations
-#Frontend:
+# Frontend:
     • React Native –  frontend framework
     • Expo –  front-end development environment
     • Android Studio – Android emulation
     • Gimp – Raster graphics editor
-#Back-end:
+# Back-end:
     • Node.js –  server environment
     • Express.js –   server framework
     • MongoDB –  open source database
     • Amazon Web Service – Server where our back-end is deployed and has a public adder.
 
-#5. Why and what for?
+## 5. Why and what for?
 The technology I chose allows to simultaneously develop a project for both IOS and Android systems. I think JavaScript 
 React Native will be a top smartphone programming technology in the future, therefore, I decided to learn it. 
 What’s more, I abandoned the idea of using the Firebase database and decided to write our own server to make the project 
